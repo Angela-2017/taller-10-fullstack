@@ -14,3 +14,5 @@
 <h2>Punto 5-6-7: </h2>
 <h3>5-BASE DE DATOS</h3>
 <img src="./public/images/pantallazo-base-de-datos.png" alt="mysql">
+<h3>6-CONEXION BASE DE DATOS A PHP</h3>
+<img src="./public/images/conexion-base-de-datos.png" alt="connection">
