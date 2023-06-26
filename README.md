@@ -5,6 +5,9 @@
 <p>Angelica Rincon</p>
 
 <h2>Punto 1: </h2> poner los pantallazos de como quedo el ejercicio aqui en cada punto
+<h3>Calcualdora de operaciones</h3>
+<img src="./public/images/calculadoradeoperaciones.png" alt="calculadora">
+
 <h2>Punto 2: </h2>
 
 <h2>Punto 3: </h2>
