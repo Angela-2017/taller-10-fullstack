@@ -16,3 +16,5 @@
 <img src="./public/images/pantallazo-base-de-datos.png" alt="mysql">
 <h3>6-CONEXION BASE DE DATOS A PHP</h3>
 <img src="./public/images/conexion-base-de-datos.png" alt="connection">
+<h3>7- Muestra de datos en pantalla</h3>
+<img src="./public/images/basedatos.png" alt="bd">

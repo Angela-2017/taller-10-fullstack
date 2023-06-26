@@ -3,10 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="../styles/general-styles (1).css">
+    <link rel="stylesheet" href="./view/styles/table.css">
+    <title>Punto 5-6-7</title>
 </head>
 <body>
     <h1>Proyecto base de datos</h1>
-    <?php include "./service/connection.php" ?><!--etiqueta para conectar al archivo connection.php q conecta la base de datos creada -->
+    <hr>
+    <?php include "./view/components/table.php" ?><!--Se incluyo el archivo table.php q llama a la lista convertida en objetos de la tabla de la base de datos -->
 </body>
 </html>

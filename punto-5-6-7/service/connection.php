@@ -17,16 +17,10 @@
 //se usa una constante porq la conexion no va a cambiar
     const CONNECTION = new mysqli("localhost", "root", "", "mi_proyecto");
 
-//para comprobar si la conexion de la base de datos a php se hace lo siguiente
-//se crea una variable $quey y se iguala a mysql_query (el mysql_queryhace una consulta a la tabla)
-//mysql_query debe contener por dentro la constante, luego se pone un SELECT * FROM + el nombre de la tabla de la base de datos
-  
-    $query = mysqli_query(CONNECTION, "SELECT * FROM usuarios");
-
-//Se muestra en pantalla lo q se hizo anteriormente para ver si deja buscar en la base de datos
+//para comprobar si la conexion de la base de datos a php crea una variable $query y se iguala con el atributo
+//para llamar la info de la tabla de la base de datos q se creo: 
+// $query = mysqli_query(CONNECTION, "SELECT * FROM usuarios");  y despues con:  print_r(mysqli_fetch_all($query, MYSQLI_ASSOC));
+//se mostraba en pantalla la informacion, pero esto solo se hizo para comprobar si la conexionde la base de datos a php funciono
 
 
-//mysqli_fetch_all ES para mostrar toda la info de la tabla de la base de datos
-//dentro del atributo mysqli_fetch_all se encuentra la variable $query q se denomino arriba
-    print_r(mysqli_fetch_all($query, MYSQLI_ASSOC));
 ?>
