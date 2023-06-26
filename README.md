@@ -4,11 +4,14 @@
 <p>Curso Full Stack basico-Grupo 1</p>
 <p>Angelica Rincon</p>
 
-<h2>Punto 1: </h2> poner los pantallazos de como quedo el ejercicio aqui en cada punto
+<h2>Punto 1: </h2> 
 <h3>Calcualdora de operaciones</h3>
 <img src="./public/images/calculadoradeoperaciones.png" alt="calculadora">
 
 <h2>Punto 2: </h2>
+<h3>Envio de datos de usuario y saber si es mayor de edad</h3>
+<img src="./public/images/Envio-datos-usuario.png" alt="datos">
+
 
 <h2>Punto 3: </h2>
 
