@@ -12,10 +12,12 @@
 <h3>Envio de datos de usuario y saber si es mayor de edad</h3>
 <img src="./public/images/Envio-datos-usuario.png" alt="datos">
 
-
 <h2>Punto 3: </h2>
+<h3>Envio de datos de usuario a otra pagina</h3>
+<img src="./public/images/punto-3.png" alt="userdates">
 
 <h2>Punto 4: </h2>
+
 
 <h2>Punto 5-6-7: </h2>
 <h3>5-BASE DE DATOS</h3>

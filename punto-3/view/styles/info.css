@@ -1,0 +1,14 @@
+.user-info__container {
+    display: flex;
+    margin: 15px 0;
+    justify-content: center;
+    margin: 20px 0 40px;
+  }
+  
+.user-info__container b {
+    color: #e87537e2;
+  }
+  
+.goback{
+    margin-top: 50px;
+  }
