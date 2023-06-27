@@ -19,7 +19,7 @@
         </div>
         <div>
             <!--Este div contiene los atributos para digitar el APELLIDO y se guarda en el atributo NAME-->
-            <label for="last-name">Segundo numero</label>
+            <label for="last-name">Apellido del usuario</label>
             <input  
                 id="last-name"
                 type="text"
@@ -28,7 +28,7 @@
         </div>
         <div>
             <!--Este div contiene los atributos para digitar el APELLIDO y se guarda en el atributo NAME-->
-            <label for="id">Segundo numero</label>
+            <label for="id">Cedula del usuario</label>
             <input  
                 id="id"
                 type="text"
