@@ -21,13 +21,14 @@
        
         <div>
             <!--Este div contiene los atributos para digitar la edad y se guarda en el atributo NAME-->
-            <label for="age">Digite su fecha de nacimiento</label>
+            <!--date para q se cree un calendario-->
+            <label for="date">Digite su edad</label>
             <input  
                 id="age"
-                type="text"
-                name="age_user"
-                placeholder="18">
+                type="date"
+                name="date_user"
+                placeholder="01/01/1999">
         </div>
         </div>
-    <button>Calcular</button>
+    <button>Registrar</button>
 </form>

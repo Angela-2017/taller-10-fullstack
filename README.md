@@ -17,7 +17,8 @@
 <img src="./public/images/punto-3.png" alt="userdates">
 
 <h2>Punto 4: </h2>
-
+<h3>Calculo de edad</h3>
+<img src="./public/images/punto-4.png" alt="date">
 
 <h2>Punto 5-6-7: </h2>
 <h3>5-BASE DE DATOS</h3>
@@ -25,4 +26,4 @@
 <h3>6-CONEXION BASE DE DATOS A PHP</h3>
 <img src="./public/images/conexion-base-de-datos.png" alt="connection">
 <h3>7- Muestra de datos en pantalla</h3>
-<img src="./public/images/basedatos.png" alt="bd">
+<img src="./public/images/basededatos.png" alt="bd">

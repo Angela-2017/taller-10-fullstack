@@ -3,7 +3,7 @@
 $message = "";
 
 
-if($_SERVER["REQUEST_METHOD"] == "POST"){//se debe pone esta linea de codigo para asegiurar se de q coincida el metodo post del formulario con este archivo
+if($_SERVER["REQUEST_METHOD"] == "POST"){//se debe pone esta linea de codigo para asegurar se de q coincida el metodo post del formulario con este archivo
 
 //obtener el nombre y apellidos de usuario
 $name= $_POST["user_name"];
